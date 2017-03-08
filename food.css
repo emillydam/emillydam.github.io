@@ -1,0 +1,29 @@
+body {
+	background-color: #3e66a5;
+	color: #FFFFFF;
+	text-align: center;
+	font-family: Arial, Helvetica, sans-serif;
+}
+
+h1 {
+	font-size: 60px;
+}
+
+h2 {
+	font-size: 30px;
+}
+
+p {
+	font-size: 40px;
+}
+
+#button{
+	background-color: #FFFFFF;
+	border: none;
+    padding: 10px 15px;
+    text-align: center;
+    display: inline-block;
+    font-size: 20px;
+
+}
+
